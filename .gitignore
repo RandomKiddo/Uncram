@@ -1,0 +1,13 @@
+# Mac
+*.DS_Store
+
+# VSCode
+*.code-workspace
+.vscode/
+tasks.json
+
+# Executables
+*.out
+*.exe
+*.app
+segmentation
