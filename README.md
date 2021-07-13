@@ -47,8 +47,6 @@ This repository has a sister repository called Cram that seeks to compress the f
 
 Visit the repository [here](https://github.com/RandomKiddo/Cram)
 
-:exclamation: The repository's contents is not finished yet
-
 ___
 
 ### Further Reading
